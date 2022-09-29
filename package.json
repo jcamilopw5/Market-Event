@@ -1,0 +1,27 @@
+{
+  "name": "mercado-ecologico-project",
+  "version": "1.0.0",
+  "description": "Gulp, SASS and HTML Project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcamilopw5/Market-Event.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Jcamilopw5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcamilopw5/Market-Event/issues"
+  },
+  "homepage": "https://github.com/jcamilopw5/Market-Event#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.54.9"
+  }
+}
